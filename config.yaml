@@ -6,7 +6,7 @@ DATA_SOURCE: YAHOO
 API_KEY: Your_API_Key
 
 # Which Ticker should be the reference for performance?
-REFERENCE_TICKER: SPY
+REFERENCE_TICKER: COMPOSITE
 
 # What is the lowest Percentile you want to see?
 MIN_PERCENTILE: 70
